@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="1c4d293c-f27e-491e-9468-6e659991d0d6" customName="dev6.mosuk" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="dev6.mosuk" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
